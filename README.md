@@ -33,7 +33,13 @@ const yuri = {
 }
 ```
 
-> Estudante de Ciência da Computação com foco em desenvolvimento Full Stack. Apaixonado por entender como as coisas funcionam por baixo dos panos — do back-end ao banco de dados. Em constante evolução, um commit de cada vez.
+Sou o Yuri, estudante de Ciência da Computação no 4º período pela Estácio. Ainda estou no começo da jornada, mas já de mãos na massa — e é exatamente isso que me move.
+
+Gosto de desafios que me obrigam a pensar. Quando topo com um problema que não sei resolver, não paro até entender o porquê. Acredito que a base sólida vale mais do que sair correndo atrás de cada tecnologia nova — então foco em aprender de verdade, mesmo que devagar.
+
+Fora do código, tenho certificação em liderança e gosto de trabalhar em equipe. Saber se comunicar e colaborar é tão importante quanto saber programar — e isso eu levo a sério.
+
+> *Iniciante? Sim. Desistindo? Jamais.* 🚀
 
 ---
 
@@ -69,7 +75,7 @@ const yuri = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yurimarvila&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR&type=png" />
+<img src="[https://streak-stats.demolab.com?user=yurimarvila&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR&type=png](https://streak-stats.demolab.com?user=yurimarvila&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M[%20Y]&locale=pt_BR&type=png)" />
 
 </div>
 
