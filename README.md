@@ -107,7 +107,7 @@ Fora do código, tenho certificação em liderança e gosto de trabalhar em equi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Marvila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurimarvila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Marvila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-fernandes-marvila/)
 [![GitHub](https://img.shields.io/badge/GitHub-yurimarvila-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yurimarvila)
 
 </div>
