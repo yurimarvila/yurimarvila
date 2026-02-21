@@ -2,9 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yuri%20Marvila&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Cursando+Ciência+da+Computação+💻;4º+Período+na+Estácio;Full+Stack+%7C+Java+%7C+Node.js+%7C+React;Construindo+bases+sólidas+dia+a+dia+🚀" alt="Typing SVG" />
-</a>
+<br/>
+
+<!-- Typing animation — hosted no readme.so, mais estável -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Cursando+Ciência+da+Computação+💻;4º+Período+na+Estácio;Full+Stack+%7C+Java+%7C+Node.js+%7C+React;Construindo+bases+sólidas+dia+a+dia+🚀" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -64,29 +65,15 @@ const yuri = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yurimarvila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yurimarvila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12&hide_border=true" />
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimarvila&layout=compact&langs_count=6&theme=github_dark&border_radius=12&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimarvila&layout=compact&langs_count=6&theme=github_dark&border_radius=12&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yurimarvila&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
-## 📜 Certificações
-
-<div align="center">
-
-| 🏅 Certificação | Instituição |
-|---|---|
-| Liderança | ✅ Concluído |
+<img src="https://streak-stats.demolab.com?user=yurimarvila&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
 
 </div>
-
-> ℹ️ *Loangin...*
 
 ---
 
@@ -104,6 +91,18 @@ const yuri = {
 
 ---
 
+## 📜 Certificações
+
+<div align="center">
+
+| 🏅 Certificação | Área |
+|---|---|
+| Liderança | Gestão & Soft Skills |
+
+</div>
+
+---
+
 ## 📬 Contato
 
 <div align="center">
@@ -117,7 +116,7 @@ const yuri = {
 
 <div align="center">
 
-*"Um commit por dia mantece a ignorância afastada."*
+*"Um commit por dia mantém a ignorância afastada."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
 
