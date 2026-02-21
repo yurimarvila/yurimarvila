@@ -97,7 +97,7 @@ const yuri = {
 
 | 🏅 Certificação | Área |
 |---|---|
-| Liderança | Gestão & Soft Skills |
+| Liderança | Gestão & Soft Skills | ✅Concluído |
 
 </div>
 
