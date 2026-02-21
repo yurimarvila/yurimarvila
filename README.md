@@ -71,7 +71,7 @@ const yuri = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yurimarvila&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+<img src="https://streak-stats.demolab.com?user=yurimarvila&theme=dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
