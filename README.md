@@ -69,13 +69,7 @@ Fora do código, tenho certificação em liderança e gosto de trabalhar em equi
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yurimarvila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimarvila&layout=compact&langs_count=6&theme=github_dark&border_radius=12&hide_border=true&cache_seconds=1800" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yurimarvila&theme=github-compact&hide_border=true&radius=12&area=true&area_color=58A6FF" />
+<img src="https://streak-stats.demolab.com?user=yurimarvila&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR&type=png" />
 
 </div>
 
