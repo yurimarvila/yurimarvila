@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yuri%20Marvila&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Back-end%20Developer%20Jr&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yuri%20Marvila&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Cursando+Ciência+da+Computação+💻;4º+Período+e+só+começando...;Back-end+%7C+APIs+%7C+Banco+de+Dados;Certificado+Foundational+C%23+pela+FCC+🏅;Transformando+lógica+em+código+desde+cedo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Cursando+Ciência+da+Computação+💻;4º+Período+na+Estácio;Full+Stack+%7C+Java+%7C+Node.js+%7C+React;Construindo+bases+sólidas+dia+a+dia+🚀" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,51 +20,41 @@
 
 ## 🧠 Sobre Mim
 
-```java
-public class YuriMarvila {
-
-    String nome      = "Yuri Marvila";
-    String curso     = "Ciência da Computação";
-    int    periodo   = 4;
-    String foco      = "Desenvolvimento Back-end";
-    String cidade    = "São Francisco de Itabapoana, RJ";
-
-    String[] certificacoes = {
-        "Foundational C# — freeCodeCamp (FCC)",
-        "SFPC — Scrum Foundation Professional"
-    };
-
-    String mensagem() {
-        return "Ainda no início da jornada, mas já de mãos na massa. 🚀";
-    }
+```javascript
+const yuri = {
+  nome:      "Yuri Marvila",
+  curso:     "Ciência da Computação",
+  periodo:   "4º Período — Estácio",
+  cidade:    "São Francisco de Itabapoana, RJ",
+  foco:      "Full Stack | Back-end | APIs",
+  stack:     ["Java", "Node.js", "Python", "React", "SQL"],
+  mensagem:  "Construindo base sólida antes de sair voando. 🚀"
 }
 ```
 
-> Estudante de Ciência da Computação apaixonado por lógica, back-end e por entender como as coisas funcionam por baixo dos panos. Ainda explorando meu caminho, mas com foco em construir bases sólidas antes de sair voando.
+> Estudante de Ciência da Computação com foco em desenvolvimento Full Stack. Apaixonado por entender como as coisas funcionam por baixo dos panos — do back-end ao banco de dados. Em constante evolução, um commit de cada vez.
 
 ---
 
-## 🛠️ Stack Atual
+## 🛠️ Tecnologias
 
 <div align="center">
 
-### ✅ Uso & Estudo com Consistência
+### Back-end & Linguagens
 
-<img src="https://skillicons.dev/icons?i=cs,java,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,python,typescript&theme=dark" />
 
-**C# · Java · Python · SQL**
+### Front-end
 
-### 🌐 Desenvolvimento Web (Aprendendo)
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+### Banco de Dados
 
-**HTML · CSS · JavaScript**
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 
-### 🔧 Ferramentas do Dia a Dia
+### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,dotnet&theme=dark" />
-
-**Git · GitHub · VSCode · .NET**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
@@ -86,34 +76,30 @@ public class YuriMarvila {
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yurimarvila&theme=onestar&no-frame=true&margin-w=10&row=1&column=6"/>
-</div>
-
----
-
 ## 📜 Certificações
 
-| Certificação | Instituição | Status |
-|---|---|---|
-| 🏅 Foundational C# | freeCodeCamp (FCC™) | ✅ Concluído |
-| 📋 SFPC — Scrum Foundation | CertiProf | ✅ Concluído |
+<div align="center">
+
+| 🏅 Certificação | Instituição |
+|---|---|
+| Liderança | CertiProf / Curso em andamento |
+
+</div>
+
+> ℹ️ *Tem outras certificações? Me diz quais e coloca aqui!*
 
 ---
 
 ## 🗺️ Jornada
 
 ```
-🎓 Ingressei em Ciência da Computação — Estácio
-📚 Foco inicial: lógica, algoritmos, C# e Java
-🐍 Python e SQL entram na stack
-🌐 HTML, CSS e JS chegando na bagagem
-🏅 Certificação Foundational C# (FCC) — concluída
-📋 SFPC Scrum — concluída
-📍 Hoje: 4º período | Back-end Jr em construção
-🎯 Futuro: API robusta + projeto real no portfólio
+🎓 Início em Ciência da Computação — Estácio
+⚡ Primeiros passos: Java, Python, SQL
+🌐 Front-end: HTML, CSS, JavaScript, React
+🔁 TypeScript e Node.js entram na stack
+🗄️ Explorando bancos: MySQL, PostgreSQL, MongoDB
+📍 Hoje: 4º período | Full Stack em evolução
+🎯 Próximo: projeto completo do zero ao deploy
 ```
 
 ---
@@ -122,7 +108,7 @@ public class YuriMarvila {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Marvila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-fernandes-marvila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Marvila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurimarvila)
 [![GitHub](https://img.shields.io/badge/GitHub-yurimarvila-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yurimarvila)
 
 </div>
@@ -131,7 +117,7 @@ public class YuriMarvila {
 
 <div align="center">
 
-*"Prefiro dominar uma coisa do que conhecer superficialmente dez."*
+*"Um commit por dia mantece a ignorância afastada."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
 
