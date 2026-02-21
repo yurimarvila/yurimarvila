@@ -65,9 +65,7 @@ const yuri = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yurimarvila&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimarvila&layout=compact&langs_count=6&theme=github_dark&border_radius=12&hide_border=true&cache_seconds=1800" />
+
 
 <br/><br/>
 
