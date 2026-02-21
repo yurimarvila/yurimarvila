@@ -82,11 +82,11 @@ const yuri = {
 
 | 🏅 Certificação | Instituição |
 |---|---|
-| Liderança | CertiProf / Curso em andamento |
+| Liderança | ✅ Concluído |
 
 </div>
 
-> ℹ️ *Tem outras certificações? Me diz quais e coloca aqui!*
+> ℹ️ *Loangin...*
 
 ---
 
