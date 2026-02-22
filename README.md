@@ -22,14 +22,18 @@
 ## 🧠 Sobre Mim
 
 ```javascript
-const yuri = {
-  nome:      "Yuri Marvila",
-  curso:     "Ciência da Computação",
-  periodo:   "4º Período — Estácio",
-  cidade:    "São Francisco de Itabapoana, RJ",
-  foco:      "Full Stack | Back-end | APIs",
-  stack:     ["Java", "Node.js", "Python", "React", "SQL"],
-  mensagem:  "Construindo base sólida antes de sair voando. 🚀"
+public class YuriMarvila {
+
+    String nome     = "Yuri Marvila";
+    String curso    = "Ciência da Computação";
+    String periodo  = "4º Período — Estácio";
+    String cidade   = "São Francisco de Itabapoana, RJ";
+    String foco     = "Full Stack | Back-end | APIs";
+    String[] stack  = {"Java", "Node.js", "Python", "React", "SQL"};
+
+    String mensagem() {
+        return "Construindo base sólida antes de sair voando. 🚀";
+    }
 }
 ```
 
