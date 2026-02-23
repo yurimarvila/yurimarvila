@@ -1,127 +1,81 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yuri%20Marvila&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16"/>
-
-<br/>
-
-<!-- Typing animation — hosted no readme.so, mais estável -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Cursando+Ciência+da+Computação+💻;4º+Período+na+Estácio;Full+Stack+%7C+Java+%7C+Node.js+%7C+React;Construindo+bases+sólidas+dia+a+dia+🚀" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yurimarvila&label=Visitas&color=0e75b6&style=for-the-badge" />
-&nbsp;
-<a href="https://github.com/yurimarvila?tab=followers">
-  <img src="https://img.shields.io/github/followers/yurimarvila?label=Seguidores&style=for-the-badge&color=58A6FF"/>
-</a>
-
-</div>
-
----
-
-## 🧠 Sobre Mim
-
-```javascript
+```java
 public class YuriMarvila {
 
+    // Quem sou
     String nome     = "Yuri Marvila";
-    String curso    = "Ciência da Computação";
-    String periodo  = "4º Período — Estácio";
+    String curso    = "Ciência da Computação — Estácio";
+    String periodo  = "4º Período";
     String cidade   = "São Francisco de Itabapoana, RJ";
-    String foco     = "Full Stack | Back-end | APIs";
-    String[] stack  = {"Java", "Node.js", "Python", "React", "SQL"};
+
+    // Foco atual
+    String foco     = "Java Backend";
+    String objetivo = "Vaga de Dev Java Júnior";
 
     String mensagem() {
-        return "Construindo base sólida antes de sair voando. 🚀";
+        return "Base sólida antes de sair voando.";
     }
 }
 ```
 
-Sou o Yuri, estudante de Ciência da Computação no 4º período pela Estácio. Ainda estou no começo da jornada, mas já de mãos na massa — e é exatamente isso que me move.
+---
 
-Gosto de desafios que me obrigam a pensar. Quando topo com um problema que não sei resolver, não paro até entender o porquê. Acredito que a base sólida vale mais do que sair correndo atrás de cada tecnologia nova — então foco em aprender de verdade, mesmo que devagar.
+## Sobre
 
-Fora do código, tenho certificação em liderança e gosto de trabalhar em equipe. Saber se comunicar e colaborar é tão importante quanto saber programar — e isso eu levo a sério.
-
-> *Iniciante? Sim. Desistindo? Jamais.* 🚀
+Estudante de Ciência da Computação apaixonado por **Java Backend**.
+Focado em construir uma carreira sólida no desenvolvimento, com olho no mercado corporativo e sempre em busca de evolução.
+Cada linha de código aqui é parte de uma jornada real — com propósito e direção.
 
 ---
 
-## 🛠️ Tecnologias
+## Stack
 
-<div align="center">
-
-### Back-end & Linguagens
-
-<img src="https://skillicons.dev/icons?i=java,nodejs,python,typescript&theme=dark" />
-
-### Front-end
-
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript&theme=dark" />
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-</div>
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![Spring](https://skillicons.dev/icons?i=spring&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
 
 ---
 
-## 📊 GitHub Stats
+## Java Ecosystem
 
-<div align="center">
+| ✅ Consolidado | |
+|---|---|
+| **Fundamentos** | Tipos, operadores, condicionais, loops, métodos, escopo e estrutura de programas Java |
+| **Coleções & Dados** | ArrayList, HashMap, HashSet, iteração, manipulação de strings e conversão de tipos |
+| **Orientação a Objetos** | Classes, objetos, construtores, encapsulamento, herança, polimorfismo e interfaces |
+| **Tratamento de Exceções** | try/catch/finally, exceptions checked e unchecked, exceções customizadas |
+| **SOLID & Clean Code** | Princípios de design orientado a objetos, responsabilidade única, boas práticas de código |
+| **Spring Boot & REST** | APIs RESTful, controllers, services, repositories, injeção de dependência e boas práticas |
+| **JPA & Hibernate** | Mapeamento objeto-relacional, entidades, relacionamentos, JPQL e gerenciamento de banco |
+| **Banco de Dados & SQL** | Modelagem relacional, consultas SQL, PostgreSQL, MySQL e integração com Spring |
+| **Git & Versionamento** | Branches, commits semânticos, pull requests e fluxo de trabalho em equipe |
 
-<img src="https://streak-stats.demolab.com?user=yurimarvila&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR&type=png" />
-
-</div>
-
----
-
-## 🗺️ Jornada
-
-```
-🎓 Início em Ciência da Computação — Estácio
-⚡ Primeiros passos: Java, Python, SQL
-🌐 Front-end: HTML, CSS, JavaScript, React
-🔁 TypeScript e Node.js entram na stack
-🗄️ Explorando bancos: MySQL, PostgreSQL, MongoDB
-📍 Hoje: 4º período | Full Stack em evolução
-🎯 Próximo: projeto completo do zero ao deploy
-```
+| 🔵 Em andamento | |
+|---|---|
+| **Streams & Lambda** | Programação funcional em Java, filter, map, reduce, Optional e expressões lambda |
+| **Testes com JUnit** | Testes unitários, TDD, Mockito, cobertura de código e boas práticas de qualidade |
+| **Design Patterns** | Padrões de projeto clássicos: Singleton, Factory, Builder, Strategy e Observer |
 
 ---
 
-## 📜 Certificações
+## GitHub Stats
 
-<div align="center">
-
-| 🏅 Certificação | Área | Status |
-|---|---|---|
-| Liderança | Gestão & Soft Skills | ✅ Concluído |
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurimarvila&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimarvila&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 📬 Contato
-
-<div align="center">
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Marvila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-fernandes-marvila/)
 [![GitHub](https://img.shields.io/badge/GitHub-yurimarvila-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yurimarvila)
 
-</div>
-
 ---
 
-<div align="center">
-
 *"Um commit por dia mantém a ignorância afastada."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
-
-</div>
